@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "DEVCONNECTOR",
+			"path": "..\\.."
+		},
+		{
+			"name": "controllers",
+			"path": "..\\..\\..\\source-code-for-each-lectures\\036-middlewares-in-nodejs\\server\\controllers"
+		}
+	],
+	"settings": {}
+}
